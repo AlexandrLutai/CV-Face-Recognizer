@@ -92,10 +92,3 @@ pytest tests
    docker run -it --rm -p 5000:5000 face_recognition_app
    ```
 
-## Лицензия
-
-Этот проект распространяется под лицензией MIT. Подробнее см. [LICENSE](LICENSE).
-
-## Автор
-
-- **Ваше имя** — [GitHub](https://github.com/your-username)
